@@ -1,4 +1,4 @@
-# Product Catalogue
+# Product Catagory
 This is a simple product catalogue application built using HTML, CSS, and JavaScript. The application fetches data from a JSON file and displays products in a card format. Users can filter products by category (Men, Women, Kids) and view product details, including images, titles, prices, and vendor information.
 
 
